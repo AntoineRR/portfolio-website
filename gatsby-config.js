@@ -7,4 +7,5 @@ module.exports = {
     `gatsby-plugin-sass`,
     `gatsby-plugin-anchor-links`
   ],
+  pathPrefix: "/portfolio-website",
 };

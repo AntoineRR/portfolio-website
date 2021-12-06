@@ -1,6 +1,5 @@
 import * as React from "react";
 import Container from 'react-bootstrap/Container';
-import Button from 'react-bootstrap/Button';
 
 import { AnchorLink } from "gatsby-plugin-anchor-links";
 
