@@ -4,7 +4,7 @@ import { Container } from "react-bootstrap"
 const Contact = () => {
   return (
     <main>
-      <Container className="vh-100">
+      <Container id="contact" className="vh-100">
         <h1>Contact</h1>
       </Container>
     </main>

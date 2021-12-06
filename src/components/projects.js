@@ -4,7 +4,7 @@ import { Container } from "react-bootstrap"
 const Projects = () => {
   return (
     <main>
-      <Container className="vh-100">
+      <Container id="projects" className="vh-100">
         <h1>Projects</h1>
       </Container>
     </main>
