@@ -11,7 +11,7 @@ const Home = () => {
       <Container className="vh-100 d-flex align-items-center justify-content-center">
         <div className={styles.centeredContainer}>
           <div className="text-center">
-            <h1 className={styles.nameText}>Hi, I'm Antoine Romero-Romero</h1>
+            <h1>Hi, I'm Antoine Romero-Romero</h1>
             <h2 className={styles.descriptionText}>French Sofware Development Engineer</h2>
           </div>
           <div className={styles.separator}></div>
