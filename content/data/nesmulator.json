@@ -4,5 +4,5 @@
   "date": 2021,
   "description": "A simple Nintendo Entertainment System (NES) emulator written in the Rust programming language. The purpose of this emulator was for me to learn how the NES works and to challenge myself.",
   "link": "https://github.com/AntoineRR/nesmulator",
-  "image": "./r2dti.png"
+  "image": "./nesmulator.png"
 }
