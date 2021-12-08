@@ -1,0 +1,8 @@
+{
+  "title" : "Runtime 2D Transform Interactor",
+  "technologies" : ["Unity"],
+  "date": 2020,
+  "description": "A Unity asset to resize, rotate, and translate 2D sprites during runtime in Unity. It is published for free on Unity's official asset store.",
+  "link": "https://assetstore.unity.com/packages/tools/gui/runtime-2d-transform-interactor-175502",
+  "image": "./r2dti.png"
+}

@@ -1,0 +1,8 @@
+{
+  "title" : "Game Jams",
+  "technologies" : ["Unity", "Unreal Engine"],
+  "date": 2021,
+  "description": "Two video games created with a team during two 48 hours long events (Utopiales Game Jam and Global Game Jam). I was in charge of the programming part, using Unity and Unreal Engine.",
+  "link": "https://antoinerr.itch.io/",
+  "image": "./r2dti.png"
+}

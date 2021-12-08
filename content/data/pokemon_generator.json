@@ -1,0 +1,8 @@
+{
+  "title" : "Pokemon Generator",
+  "technologies" : ["Flask", "GAN"],
+  "date": 2020,
+  "description": "I trained a Generative Adversarial Network (GAN) to generate images of new Pokémon. I created an API using Flask and a frontend to interact with the trained model (temporarily unavailable)",
+  "link": "rseg",
+  "image": "./r2dti.png"
+}
