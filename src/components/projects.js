@@ -27,7 +27,6 @@ const Projects = () => {
 
   return (
     <main>
-      <div className="w-100 py-5"></div>
       <Container id="projects" className="d-flex justify-content-center">
         <div className="w-100 row justify-content-center">
           {
@@ -37,7 +36,6 @@ const Projects = () => {
           }
         </div>
       </Container>
-      <div className="w-100 py-5"></div>
     </main>
   )
 }

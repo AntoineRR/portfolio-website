@@ -8,7 +8,7 @@ import * as styles from './styles/home.module.css';
 const Home = () => {
   return (
     <main>
-      <Container className="vh-100 d-flex align-items-center justify-content-center">
+      <Container id="home" className="vh-100 d-flex align-items-center justify-content-center">
         <div className={styles.centeredContainer}>
           <div className="text-center">
             <h1>Hi, I'm Antoine Romero-Romero</h1>

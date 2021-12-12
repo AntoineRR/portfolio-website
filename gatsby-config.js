@@ -16,6 +16,14 @@ module.exports = {
         path: `./content/data/`,
       },
     },
+    {
+      resolve: "gatsby-plugin-react-svg",
+      options: {
+        rule: {
+          include: /assets/
+        }
+      }
+    },
   ],
-  pathPrefix: "/portfolio-website",
+  pathPrefix: `/portfolio-website`,
 };

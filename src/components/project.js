@@ -16,7 +16,7 @@ const Project = (props) => {
   return (
     <div className="col-6 p-5 overflow-hidden">
       <div className={styles.bgImageContainer}>
-        <GatsbyImage className={styles.bgImage} image={image} alt="Project image"/>
+        <GatsbyImage style={{position: "absolute"}} className={styles.bgImage} image={image} alt="Project image"/>
         <div className={styles.content}>
           <h2 className={styles.title}>{props.data.title}</h2>
           <div className="d-flex">
