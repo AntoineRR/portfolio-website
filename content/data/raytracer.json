@@ -1,0 +1,8 @@
+{
+    "title" : "Raytracer",
+    "technologies" : ["Rust"],
+    "date": 2022,
+    "description": "A simple raytracer program written in Rust. It is adapted from the C++ tutorial \"Raytracing in one weekend\" book series.",
+    "link": "https://github.com/AntoineRR/raytracer",
+    "image": "./raytracer.png"
+  }
